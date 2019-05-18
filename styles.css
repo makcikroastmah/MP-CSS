@@ -1,0 +1,76 @@
+#stpg {
+ height:100vh;
+ text-align: center;
+ padding-top: 16%;
+ background-color: bisque ;
+}
+
+body {
+    color: black;
+    margin: 0;
+    padding:0;
+}
+#subject,#subject2 {
+    font-family: 'Playfair Display', serif;
+    background-color: #C4FDFF;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#p1 {
+    font-family: 'Lato', sans-serif;
+}
+#img1,#img2 {
+    border-radius: 10px;
+}
+#img2{
+    margin-top: 10;
+
+}
+a:hover{
+    font-size: 1.2em;
+    color: rgb(168, 96, 168);
+}
+
+#subject2{
+    font-family: 'Playfair Display', serif;
+}
+
+#div2 {
+    text-align: center;
+    width:100%;  
+  margin:0 auto;
+  height: 75vh;
+  background: rgba(231, 179, 178, 0.781);
+  padding-bottom: 2% ;
+
+}
+ol,ul {
+    list-style-position: inside;
+}
+#div3 li{
+ display: inline;
+}
+#div3 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    background: bisque;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 2.5px;
+    height: 20vh;
+}
+
+#img2 {
+    margin: 3%;
+}
+#header2 {
+    font-family: 'Playfair Display', serif;
+    background-color: #C4FDFF;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+#subject {
+    font-family: 'Lato', sans-serif;
+} 
